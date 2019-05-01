@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-forex/static/css/main.301c57cf.chunk.css",
+    "main.js": "/mini-forex/static/js/main.b4ca8782.chunk.js",
+    "main.js.map": "/mini-forex/static/js/main.b4ca8782.chunk.js.map",
+    "runtime~main.js": "/mini-forex/static/js/runtime~main.f1a29caa.js",
+    "runtime~main.js.map": "/mini-forex/static/js/runtime~main.f1a29caa.js.map",
+    "static/js/2.2552aa6d.chunk.js": "/mini-forex/static/js/2.2552aa6d.chunk.js",
+    "static/js/2.2552aa6d.chunk.js.map": "/mini-forex/static/js/2.2552aa6d.chunk.js.map",
+    "index.html": "/mini-forex/index.html",
+    "precache-manifest.4430f89caafeb5c825db560c7d795a5e.js": "/mini-forex/precache-manifest.4430f89caafeb5c825db560c7d795a5e.js",
+    "service-worker.js": "/mini-forex/service-worker.js",
+    "static/css/main.301c57cf.chunk.css.map": "/mini-forex/static/css/main.301c57cf.chunk.css.map"
+  }
+}
