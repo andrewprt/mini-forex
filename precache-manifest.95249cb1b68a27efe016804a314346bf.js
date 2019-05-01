@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0f448f42df58a7fa5a84f7d10667fe1",
+    "revision": "567541ba07317a1efb21c832e7f85252",
     "url": "/mini-forex/index.html"
   },
   {
